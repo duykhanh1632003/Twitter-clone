@@ -12,7 +12,18 @@
         </div>
 
          <!-- mid-->
+
+        <main class="col-span-12 bg-red-500 md:col-span-8 xl:col-span-6">
+
+        </main>
+
           <!-- right-->
+        <div class="col-span-12  md:block xs-col-span-4 xl:col-span-3 bg-blue-500">
+          <div class="sticky top-0">
+            <SidebarRight />
+          </div>
+        </div>
+        
 
       </div>
     </div>
